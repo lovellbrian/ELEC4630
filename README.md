@@ -11,5 +11,5 @@ Here are a few Colab notebooks to get you started with deep learning.  We have d
 4. You can use Runtime/Run all to run all the code, or you can execute one codeblock at a time.
 
 **Let's get started on some exercises**
-1. [Introduction to Google Colab](https://colab.research.google.com/github/lovellbrian/ELEC4630/Exercises/blob/master/Welcome_To_Colaboratory.ipynb)
-2. [Access your GPU and perform a speed test](https://colab.research.google.com/github/lovellbrian/ELEC4630/Exercises/blob/master/TensorFlow_with_GPU.ipynb)
+1. [Introduction to Google Colab](https://colab.research.google.com/github/lovellbrian/ELEC4630/blob/master/Exercises/Welcome_To_Colaboratory.ipynb)
+2. [Access your GPU and perform a speed test](https://colab.research.google.com/github/lovellbrian/ELEC4630/blob/master/Exercises/TensorFlow_with_GPU.ipynb)
