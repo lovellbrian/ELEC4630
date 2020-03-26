@@ -13,3 +13,4 @@ Here are a few Colab notebooks to get you started with deep learning.  We have d
 **Let's get started on some exercises**
 1. [Introduction to Google Colab](https://colab.research.google.com/github/lovellbrian/ELEC4630/blob/master/Exercises/Welcome_To_Colaboratory.ipynb)
 2. [Access a GPU in the cloud and perform a speed test](https://colab.research.google.com/github/lovellbrian/ELEC4630/blob/master/Exercises/TensorFlow_with_GPU.ipynb)
+3. [Train a CNN on the MNIST dataset](https://colab.research.google.com/github/lovellbrian/ELEC4630/blob/master/Exercises/beginner.ipynb)
