@@ -1,9 +1,9 @@
-# ELEC4630
-ELEC4630 Computer Vision and Image Processing
+## ELEC4630
+**ELEC4630 Computer Vision and Image Processing**
 
-Here are a few Colab notebooks to get you started with deep learning.  We have decided to use Google Colab notebooks because you can access them from anywhere and can run your code on a cloud-based GPU.  
+Here are a few Colab notebooks to get you started with deep learning.  We have decided to use Google [Colab](https://colab.research.google.com) notebooks because you can access them from anywhere and can run your code on a cloud-based GPU.  
 
-How to run a Colab notebook
+**How to run a Colab notebook**
 
 1. In GitHub, open a notebook with ipynb extension
 2. You should see a "Open in Colab" button
